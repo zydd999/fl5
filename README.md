@@ -3,8 +3,8 @@
 <div>国产浏览器 ,可能打不开链接,推荐使用谷歌Chrom、微软Edge、火狐浏览器。</div>
 <div><BR></div>
   
- <li><font class="ws11"><a href="https://github.com/wiysls362/www/blob/master/README.md?i#1" title="" target="_blank">明见</a>（含免费翻墙工具）</font></a></font></li  
-<div>提供每日即时新闻、评论、视频。个别情况如果打不开，请使用<a href="https://combinatronics.com/senemh3705/www/master/index.html?v" title="" target="_blank">高速版</a></font>。</font></li></div>
+ <li><font class="ws11"><a href=" https://gitlab.com/zh99/flower/-/blob/master/README.md" title="" target="_blank">明见</a>（含免费翻墙工具）</font></a></font></li  
+<div>提供每日即时新闻、评论、视频。个别情况如果打不开，请使用<a href="https://github.com/wiysls362/www/blob/master/README.md?i#1"  title="" target="_blank">高速版</a></font>。</font></li></div>
 <div><BR></div>
 <li><font class="ws11"><a 
   <li><font class="ws11"><a href= https://github.com/gfw-breaker/banned-news1/blob/master/README.md?jokto title="" target="_blank">禁闻聚合</a></font>（国产浏览器打不开） </li>
