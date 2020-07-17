@@ -17,7 +17,7 @@
 
 
 <div><BR></div>
- <li><font class="ws11"><a href="https://github.com/fqnews/bnews/blob/master/readme.md?jokto" title="" target="_blank">24小时热点禁闻（国产浏览器打不开）</a></font></li   
+ <li><font class="ws11"><a href="https://github.com/fqnews/bnews/blob/master/readme.md?jokto" title="" target="_blank">24小时热点禁闻（</a></font>（国产浏览器打不开）</a></font></li   
  
 
  
