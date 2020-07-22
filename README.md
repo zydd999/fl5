@@ -7,7 +7,7 @@
 <div>提供每日即时新闻、评论、视频。个别情况如果打不开，请使用<a href="https://github.com/wiysls362/www/blob/master/README.md#dt2121"  title="" target="_blank">高速版</a></font>。</font></li></div>
 <div><BR></div>
 <li><font class="ws11"><a 
-  <li><font class="ws11"><a href= https://github.com/gfw-breaker/banned-news1/blob/master/README.md#mmm title="" target="_blank">禁闻聚合</a></font>（国产浏览器打不开） </li>
+  <li><font class="ws11"><a href= https://github.com/zydd999/banned-news2/blob/master/README.md title="" target="_blank">禁闻聚合</a></font>（国产浏览器打不开） </li>
   <div>新闻快报，时事聚焦。含精品电影、纪录片、时事小品、热播连续剧。</font></li></div> 
   <div>推荐时事小品：紧扣时事，诙谐有趣，启人深思。
   <div><BR></div> 
