@@ -6,7 +6,7 @@
  
 <div>非常好用！部分链接个别时间可能打不开，但站主维护速度很快，可以换个时间再试试。</font></li></div> 
 <div>非常好的电视台，节目丰富，品味高雅。每天用它看新闻，非常方便！</font></li></div> 
-<div><a href=https://zh.zydd999.workers.dev title="" target="_blank">备用网址</a></font></a></font><div>
+<div><a href=https://zh.zydd999.workers.dev title="" target="_blank">备用网址</a></font></a>（个别浏览器，可能会提示网页有病毒，这是误报，不用管它。）</font><div>
 <div><BR></div>
  <li><font class="ws11"><a href=https://gitlab.com/zh99/w3/-/blob/master/README.md title="" target="_blank">明见</a>（含免费逾墙工具）</font></a></font></li  
 <div>提供每日即时新闻、评论、视频。个别情况如果打不开，请使用<a href="https://github.com/wiysls362/www/blob/master/README.md#dt2121"  title="" target="_blank">高速版</a></font>。</font></li></div>
