@@ -4,8 +4,8 @@
 <div><BR></div>
     <li><font class="ws11"><a href=https://rebrand.ly/zhen title="" target="_blank">禁网导航、电视直播</a></font> &nbsp&nbsp &nbsp </font></a> </li>
  
-<div>非常好用！部分链接个别时间可能打不开，但站主维护速度很快，可以换个时间再试试。</font></li></div> 
-<div>非常好的电视台，节目丰富，品味高雅。每天用它看新闻，非常方便！</font></li></div> 
+
+<div>不用任何工具，直接看禁网。非常好的电视台，节目丰富，品味高雅。每天用它看新闻，非常方便！</font></li></div> 
 
 <div><BR></div>
  <li><font class="ws11"><a href=https://gitlab.com/zh99/w3/-/blob/master/README.md  title="" target="_blank">明见</a>（含多个免费逾墙工具）</font></a></font></li  
