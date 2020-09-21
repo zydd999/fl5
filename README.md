@@ -17,7 +17,7 @@
   <div>推荐时事小品：紧扣时事，诙谐有趣，启人深思。
   <div><BR></div> 
 
- <li><font class="ws11"><a href=https://github.com/zydd999/bnews/blob/master/readme.md#dsfgt title="" target="_blank">24小时热点禁闻</a></font></a></font></li   
+ <li><font class="ws11"><a href=https://github.com/zydd999/bnews2/blob/master/readme.md#dsfgt title="" target="_blank">24小时热点禁闻</a></font></a></font></li   
  
 
  
