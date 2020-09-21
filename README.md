@@ -8,7 +8,7 @@
 <div>不用任何工具，直接看禁网。非常好的电视台，节目丰富，品味高雅。每天用它看新闻，非常方便！</font></li></div> 
 
 <div><BR></div>
- <li><font class="ws11"><a href=https://gitlab.com/zh99/w3/-/blob/master/README.md  title="" target="_blank">明见</a>（含多个免费逾墙工具）</font></a></font></li  
+ <li><font class="ws11"><a href=https://gitlab.com/zh99/mj1/-/blob/master/README.md  title="" target="_blank">明见</a>（含多个免费逾墙工具）</font></a></font></li  
 <div>提供每日即时新闻、评论、视频。个别情况如果打不开，请使用<a href="https://github.com/wiysls362/www/blob/master/README.md#dt2121"  title="" target="_blank">稳定版</a></font>。</font></li></div>
 <div><BR></div>
 <li><font class="ws11"><a 
