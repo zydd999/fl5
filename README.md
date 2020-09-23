@@ -9,7 +9,7 @@
 
 <div><BR></div>
  <li><font class="ws11"><a href=https://github.com/wiysls362/www/blob/master/README.md#dt2121  title="" target="_blank">明见</a>（含多个免费逾墙工具）</font></a></font></li  
-<div国外浏览器，请使用<a href="https://ghcdn.rawgit.org/thofoc3691/www/master/index.html?h"  title="" target="_blank">高速版</a></font>。</font></li></div>
+<div国外浏览器，请使用<a href="https://ghcdn.rawgit.org/thofoc3691/www/master/index.html?h"  title="" target="_blank">高速版</a></font></font></li></div>
 <div><BR></div>
 <li><font class="ws11"><a 
   <li><font class="ws11"><a href=https://github.com/gfw-breaker/banned-news2/blob/master/README.md title="" target="_blank">禁闻聚合</a></font>（国产浏览器打不开） </li>
