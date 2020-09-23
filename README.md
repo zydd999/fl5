@@ -21,7 +21,6 @@
  
 ## 喜剧剧场
  
-<div><BR></div>
 <li><font class="ws11"><a href="http://206.189.169.160:10000/videos/res/comedy/" title="" target="_blank">时事小品：外交部大实话</a></font></a></font></li  >
 <li><font class="ws11"><a href="http://206.189.169.160:10000/videos/res/comedy/" title="" target="_blank">揭秘央视运作手法喜剧《大裤衩》</a></font></a></font></li >
 <li><font class="ws11"><a href="http://206.189.169.160:10000/videos/res/comedy/" title="" target="_blank">揭秘红潮乱象喜剧《雷人水浒》</a></font></a></font></li>
