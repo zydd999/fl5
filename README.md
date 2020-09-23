@@ -19,7 +19,8 @@
  <li><font class="ws11"><a href=https://github.com/zydd999/bnews2/blob/master/readme.md#dsfgt title="" target="_blank">24小时热点禁闻</a></font></a></font></li >  
  
 ## 喜剧剧场
-如果你使用国外浏览器，请直接访问：https://github.com/gfw-breaker/banned-news3/blob/master/pages/link4.md 
+<div>如果你使用国外浏览器，请直接访问：<a href="https://github.com/gfw-breaker/banned-news3/blob/master/pages/link4.md“ title="" target="_blank">视频精选</a></font></font></li></div>
+<div><BR></div>
  
 <li><font class="ws11"><a href="http://206.189.169.160:10000/videos/res/comedy/" title="" target="_blank">系列时事小品：外交部大实话</a></font></a></font></li  >
 <li><font class="ws11"><a href="http://206.189.169.160:10000/videos/res/comedy/" title="" target="_blank">揭秘央视运作手法喜剧《大裤衩》</a></font></a></font></li >
