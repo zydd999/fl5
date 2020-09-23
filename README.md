@@ -8,8 +8,8 @@
 <div>不用任何工具，直接看禁网。非常好的电视台，节目丰富，品味高雅。每天用它看新闻，非常方便！</font></li></div> 
 
 <div><BR></div>
- <li><font class="ws11"><a href=https://github.com/wiysls362/www/blob/master/README.md#dt2121  title="" target="_blank">明见</a>（含多个免费逾墙工具，首页打开稍慢，点击后，请略等。）</font></a></font></li  
-<div>提供每日即时新闻、评论、视频。国外浏览器，请使用<a href="https://ghcdn.rawgit.org/thofoc3691/www/master/index.html?h"  title="" target="_blank">高速版</a></font>。</font></li></div>
+ <li><font class="ws11"><a href=https://github.com/wiysls362/www/blob/master/README.md#dt2121  title="" target="_blank">明见</a>（含多个免费逾墙工具）</font></a></font></li  
+<div国外浏览器，请使用<a href="https://ghcdn.rawgit.org/thofoc3691/www/master/index.html?h"  title="" target="_blank">高速版</a></font>。</font></li></div>
 <div><BR></div>
 <li><font class="ws11"><a 
   <li><font class="ws11"><a href=https://github.com/gfw-breaker/banned-news2/blob/master/README.md title="" target="_blank">禁闻聚合</a></font>（国产浏览器打不开） </li>
