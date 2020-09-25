@@ -25,6 +25,7 @@
 <div>幽默新闻频道，段子里的中国与世界！听干净新闻，断是非公案，在真相中找寻时代的灵魂。
 
 ## 推荐文章、视频
+<div>国内打开视频有时要等一会儿才能播放
  <li><font class="ws11"><a href="https://github.com/zydd999/bnews/wiki/%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E7%A0%94%E5%8F%91%E5%9B%B0%E5%A2%83%E5%8F%8A%E5%87%BA%E8%B7%AF%E4%B9%8B%E6%80%9D%E8%80%83" title="" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></font></a></font></li  
  <div>作者简介： 董宇红，传染病学医学博士，前瑞士诺华制药公司，抗病毒药物开发高级医学科学顾问。 林晓旭，微生物学和免疫学博士，美国前陆军微生物学研究员，Walter Reed陆军研究所病毒系实验室主任。</font></li></div> 
  <div><BR></div>
@@ -35,7 +36,9 @@
   <li><font class="ws11"><a href="https://gitlab.com/szzdlab/w2/raw/master/rs/Uc6y.mp4" title="" target="_blank">纪录片：一个渐冻人的康复奇迹</a></font></a></font></li 
   <div>汪医师讲述亲身经历
     <div><BR></div>
- <li><font class="ws11"><a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/5-YiSu_MH-360p.mp4" title="" target="_blank">纪录片：义诉</a></font></a></font></li  
+ <li><font class="ws11"><a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/5-YiSu_MH-360p.mp4" title="" target="_blank">故事片：归途</a></font></a>（已获48项国际大奖）</font></li  
+ <div><BR></div>
+<li><font class="ws11"><a href="https://gitlab.com/szzdlab/v2/raw/master/hG75Ez1eTyeZN.mp4" title="" target="_blank">纪录片：义诉</a></font></a></font></li  
 
  <div> 它被20多万人实名起诉</font></li></div> 
 <div><BR></div>
