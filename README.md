@@ -8,7 +8,7 @@
 <div>《名家评论》对时事的深刻洞悉，更是国内任何媒体根本达不到的。</font></li></div> 
 <div><BR></div>
  <li><font class="ws11"><a href=https://github.com/wiysls362/www/blob/master/README.md#dt2121  title="" target="_blank">明见</a>（含多个免费逾墙工具、每日新闻、精选禁片）</font></a></font></li  
-<div>国外浏览器（Chrome、Edge），请使用<a href="https://github.com/gfw-breaker/banned-news3/blob/master/README.md"  title="" target="_blank"></a></font>国外浏览器版</font></li></div>
+<div>国外浏览器（Chrome、Edge），请使用<a href="https://github.com/gfw-breaker/banned-news3/blob/master/README.md"  title="" target="_blank">国外浏览器版</a></font></font></li></div>
 <div><BR></div>
 <li><font class="ws11"><a href=http://206.189.169.160:11000/show.aspx?name=og%E7%B2%BE%E9%80%89~mark title="" target="_blank">网门</a></font></a></font></li >  
  <li><font class="ws11"><a href=https://github.com/zydd999/bnews2/blob/master/readme.md#dsfgt title="" target="_blank">24小时热点禁闻</a></font></a></font></li >  
