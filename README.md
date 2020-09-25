@@ -28,7 +28,9 @@
  <li><font class="ws11"><a href="https://github.com/zydd999/bnews/wiki/%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%96%AB%E8%8B%97%E7%A0%94%E5%8F%91%E5%9B%B0%E5%A2%83%E5%8F%8A%E5%87%BA%E8%B7%AF%E4%B9%8B%E6%80%9D%E8%80%83" title="" target="_blank">新冠病毒疫苗研发困境及出路之思考</a></font></a></font></li  
  <div>作者简介： 董宇红，传染病学医学博士，前瑞士诺华制药公司，抗病毒药物开发高级医学科学顾问。 林晓旭，微生物学和免疫学博士，美国前陆军微生物学研究员，Walter Reed陆军研究所病毒系实验室主任。</font></li></div> 
  <div><BR></div>
- <li><font class="ws11"><a href="https://gitlab.com/szzdlab/w2/raw/master/rs/Uc6y.mp4" title="" target="_blank">一个渐冻人的康复奇迹</a></font></a></font></li 
+  <li><font class="ws11"><a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/5-YiSu_MH-360p.mp4" title="" target="_blank">义诉</a></font></a></font></li    
+ <li><font class="ws11"><a href="https://gitlab.com/szzdlab/m1/raw/master/dexl.mp4" title="" target="_blank">大疫袭来</a></font></a></font></li 
+<div> 历史上，瘟疫曾经多次降临，摧毁强大的帝国，夺走鲜活的生命。今天，新冠病毒导致上千万人感染，数十万人死亡；封城、封国、社交距离改变了生活常态，全球经济衰退，未来阴晴不定，人类正处在命运的转折点。疫情阴影下，New Tang Dynasty Television最新纪录片《大疫袭来》与您共同寻找答案。</font></li></div> 
   <div><BR></div>
  <li><font class="ws11"><a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/5-YiSu_MH-360p.mp4" title="" target="_blank">义诉</a></font></a></font></li  
 
