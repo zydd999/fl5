@@ -37,7 +37,9 @@
   <li><font class="ws11"><a href="https://gitlab.com/szzdlab/w2/raw/master/rs/Uc6y.mp4" title="" target="_blank">纪录片：一个渐冻人的康复奇迹</a></font></a></font></li 
   <div>汪医师讲述亲身经历
     <div><BR></div>
- <li><font class="ws11"><a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/5-YiSu_MH-360p.mp4" title="" target="_blank">故事片：归途</a></font></a>（已获48项国际大奖）</font></li  
+ <li><font class="ws11"><a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/5-YiSu_MH-360p.mp4" title="" target="_blank">故事片：归途</a></font></a></font></li  
+   <div>基于真实故事改编的电影，已获46项国际奖！
+      <div>对于这部影片的创作初衷，David Li导演说：人的一生很短暂，匆匆几十年转眼就过去。人生可以有很多选择，或者追求名利地位，安逸的生活，或者寻求一种更高尚的使人的生命真正得到升华的途径。《归途》就是基于现实中发生的故事，想给观众带来一个能够真正改变命运的选择。
  <div><BR></div>
 <li><font class="ws11"><a href="https://gitlab.com/szzdlab/v2/raw/master/hG75Ez1eTyeZN.mp4" title="" target="_blank">纪录片：义诉</a></font></a></font></li  
 
