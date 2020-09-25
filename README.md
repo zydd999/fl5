@@ -32,7 +32,7 @@
  <li><font class="ws11"><a href="https://gitlab.com/szzdlab/m1/raw/master/dexl.mp4" title="" target="_blank">纪录片：大疫袭来</a></font></a></font></li 
 <div> 历史上，瘟疫曾经多次降临，摧毁强大的帝国，夺走鲜活的生命。今天，新冠病毒导致上千万人感染，数十万人死亡；封城、封国、社交距离改变了生活常态，全球经济衰退，未来阴晴不定，人类正处在命运的转折点。疫情阴影下，New Tang Dynasty Television最新纪录片《大疫袭来》与您共同寻找答案。</font></li></div> 
   <div><BR></div>
-  <li><font class="ws11"><a href="https://gitlab.com/szzdlab/w2/raw/master/rs/Uc6y.mp4" title="" target="_blank">j纪录片：一个渐冻人的康复奇迹</a></font></a></font></li 
+  <li><font class="ws11"><a href="https://gitlab.com/szzdlab/w2/raw/master/rs/Uc6y.mp4" title="" target="_blank">纪录片：一个渐冻人的康复奇迹</a></font></a></font></li 
   <div>汪医师讲述亲身经历
     <div><BR></div>
  <li><font class="ws11"><a href="https://gitlab.com/szzdlab/v1/raw/master/2017-7-5/5-YiSu_MH-360p.mp4" title="" target="_blank">纪录片：义诉</a></font></a></font></li  
