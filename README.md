@@ -1,3 +1,4 @@
+
 # 为你架起一座通向世界的桥梁
 <div>本站长期可用短网址:https://x.co/zhen 欢迎大家推广。</div>
 <div>国产浏览器 ,可能打不开链接,推荐使用谷歌Chrom、微软Edge、火狐浏览器。</div>
@@ -10,7 +11,7 @@
  <li><font class="ws11"><a href=https://github.com/wiysls362/www/blob/master/README.md#dt2121  title="" target="_blank">明见</a>（含多个免费逾墙工具、每日新闻、精选禁片）</font></a></font></li  
 <div>国外浏览器（Chrome、Edge），请使用:<a href="https://github.com/gfw-breaker/banned-news3/blob/master/README.md"  title="" target="_blank">国外浏览器版</a></font></font></li></div>
 <div><BR></div>
-<li><font class="ws11"><a href=http://206.189.169.160:11000/show.aspx?name=og%E7%B2%BE%E9%80%89~mark title="" target="_blank">网门</a></font></a></font></li >  
+<li><font class="ws11"><a href=http://138.197.232.119:11000/show.aspx?name=og%E7%B2%BE%E9%80%89~mark title="" target="_blank">网门</a></font></a></font></li >  
 </div>长期访问，推荐使用App,更快、更方便！也可以从这里访问：<a href="https://x.co/ogate" title="" target="_blank">临时简易网址或下载App</a></font></font></li></div>
 
 <div><BR></div>
@@ -19,11 +20,11 @@
 ## 喜剧剧场
 
  
-<li><font class="ws11"><a href="http://206.189.169.160:10000/videos/res/comedy/" title="" target="_blank">系列时事小品：外交部大实话</a></font></a></font></li  >
-<li><font class="ws11"><a href="http://206.189.169.160:10000/videos/res/comedy/" title="" target="_blank">揭秘央视运作手法喜剧《大裤衩》</a></font></a></font></li >
-<li><font class="ws11"><a href="http://206.189.169.160:10000/videos/res/comedy/" title="" target="_blank">揭秘红潮乱象喜剧《雷人水浒》</a></font></a></font></li>
- <li><font class="ws11"><a href="http://206.189.169.160:10000/videos/res/comedy/" title="" target="_blank">看雷人咖啡 品味人生百態《雷人咖啡》</a></font></a></font></li>
-<li><font class="ws11"><a href="http://206.189.169.160/teahouse/" title="" target="_blank">老北京茶馆</a></font></a></font></li>
+<li><font class="ws11"><a href="http://138.197.232.119:10000/videos/res/comedy/" title="" target="_blank">系列时事小品：外交部大实话</a></font></a></font></li  >
+<li><font class="ws11"><a href="http://138.197.232.119:10000/videos/res/comedy/" title="" target="_blank">揭秘央视运作手法喜剧《大裤衩》</a></font></a></font></li >
+<li><font class="ws11"><a href="http://138.197.232.119:10000/videos/res/comedy/" title="" target="_blank">揭秘红潮乱象喜剧《雷人水浒》</a></font></a></font></li>
+ <li><font class="ws11"><a href="http://138.197.232.119:10000/videos/res/comedy/" title="" target="_blank">看雷人咖啡 品味人生百態《雷人咖啡》</a></font></a></font></li>
+<li><font class="ws11"><a href="http://138.197.232.119/teahouse/" title="" target="_blank">老北京茶馆</a></font></a></font></li>
 <div>幽默新闻频道，段子里的中国与世界！听干净新闻，断是非公案，在真相中找寻时代的灵魂。
 
 ## 推荐文章、视频
