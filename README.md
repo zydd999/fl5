@@ -6,14 +6,14 @@
  
 <div>不用任何工具，直接看禁网。电视台节目丰富，品味高雅。每天用它看新闻，非常方便！</font></li></div> 
 <div>《名家评论》对时事的深刻洞悉，更是国内任何媒体根本达不到的。</font></li></div> 
-
+<div><BR></div>
  <li><font class="ws11"><a href=https://cutt.ly/ff4tkaf  title="" target="_blank">动态</a></font></a></font></li>  
-
+<div><BR></div>
 
 <li><font class="ws11"><a href=http://158.247.209.22:11000/show.aspx?name=og%E7%B2%BE%E9%80%89~mark title="" target="_blank">网门</a></font></a></font></li >  
 </div>长期访问，推荐使用App,更快、更方便！也可以从这里访问：<a href="https://x.co/ogate" title="" target="_blank">临时简易网址或下载App</a></font></font></li></div>
 
-
+<div><BR></div>
  <li><font class="ws11"><a href=https://github.com/zydd999/bnews2/blob/master/readme.md#dsfgt title="" target="_blank">24小时热点禁闻</a></font></a></font></li >  
  
 ### 喜剧剧场
