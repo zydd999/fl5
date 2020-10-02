@@ -7,7 +7,7 @@
 <div>不用任何工具，直接看禁网。电视台节目丰富，品味高雅。每天用它看新闻，非常方便！</font></li></div> 
 <div>《名家评论》对时事的深刻洞悉，更是国内任何媒体根本达不到的。</font></li></div> 
 
- <li><font class="ws11"><a href=https://cutt.ly/ff4tkaf  title="" target="_blank">动态</a></font></a></font></li  
+ <li><font class="ws11"><a href=https://cutt.ly/ff4tkaf  title="" target="_blank">动态</a></font></a></font></li>  
 
 
 <li><font class="ws11"><a href=http://158.247.209.22:11000/show.aspx?name=og%E7%B2%BE%E9%80%89~mark title="" target="_blank">网门</a></font></a></font></li >  
