@@ -9,7 +9,7 @@
 <div><BR></div>
  <li><font class="ws11"><a href=https://cutt.ly/ff4tkaf  title="" target="_blank">动态</a></font></a></font></li>  
  <li><font class="ws11"><a href=https://cutt.ly/af7yX4o  title="" target="_blank">明见</a></font></a>（含多个越墙工具）</font></li>  
- <li><font class="ws11"><a href=https://cutt.ly/sf7yNaL  title="" target="_blank">希望之声</a></font></a>（正在播放长篇联播：中南海黑厚学）</font></li>
+ <li><font class="ws11"><a href=https://cutt.ly/sf7yNaL  title="" target="_blank">希望之声</a></font></a>（正在播放长篇连播：中南海黑厚学）</font></li>
   <li><font class="ws11"><a href=https://cutt.ly/Af7ulJv  title="" target="_blank">神州正道</a></font></a></font></li>
 
 <div><BR></div>
