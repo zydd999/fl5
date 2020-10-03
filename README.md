@@ -8,6 +8,10 @@
 <div>《名家评论》对时事的深刻洞悉，更是国内任何媒体根本达不到的。</font></li></div> 
 <div><BR></div>
  <li><font class="ws11"><a href=https://cutt.ly/ff4tkaf  title="" target="_blank">动态</a></font></a></font></li>  
+ <li><font class="ws11"><a href=https://cutt.ly/af7yX4o  title="" target="_blank">明见</a></font></a>（含多个越墙工具）</font></li>  
+ <li><font class="ws11"><a href=https://cutt.ly/sf7yNaL  title="" target="_blank">希望之声</a></font></a></font></li>
+  <li><font class="ws11"><a href=https://cutt.ly/Af7ulJv  title="" target="_blank">神州正道</a></font></a></font></li>
+
 <div><BR></div>
 
 <li><font class="ws11"><a href=http://158.247.209.22:11000/show.aspx?name=og%E7%B2%BE%E9%80%89~mark title="" target="_blank">网门</a></font></a></font></li >  
