@@ -7,7 +7,7 @@
 <div>不用任何工具，直接看禁网。电视台节目丰富，品味高雅。每天用它看新闻，非常方便！</font></div> 
 <div>《名家评论》对时事的深刻洞悉，更是国内任何媒体根本达不到的。</font></li></div> 
 <div><BR></div>
- <li><font class="ws11"><a href=hhttps://github.com/zydd999/w123/wiki/%E7%BF%BB%E5%A2%99%E5%BF%85%E7%9C%8B%E8%A7%86%E9%A2%91 title="" target="_blank">越墙必看视频</a></font></a></font></li>  
+ <li><font class="ws11"><a href=https://github.com/zydd999/w123/wiki/%E7%BF%BB%E5%A2%99%E5%BF%85%E7%9C%8B%E8%A7%86%E9%A2%91 title="" target="_blank">越墙必看视频</a></font></a></font></li>  
  <div>很多朋友能越墙，但却不知道基本的真相，非常可惜，这里的视频能帮您快速了解真相。</div>
 <div><BR></div>
 
