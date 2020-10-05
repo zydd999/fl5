@@ -15,9 +15,9 @@
 <div><BR></div>
 
 <li><font class="ws11"><a href=http://158.247.209.22:11000/show.aspx?name=og%E7%B2%BE%E9%80%89~mark title="" target="_blank">网门</a></font></a></font></li>  
-</div>一键浏览全球精粹资源 头条、影视、音乐、书刊、直播</div>
+<div>一键浏览全球精粹资源 头条、影视、音乐、书刊、直播</div>
 
-</div>长期访问，推荐使用App,更快、更方便！也可以从这里访问：<a href="https://x.co/ogate" title="" target="_blank">临时简易网址或下载App</a></font></font></li></div>
+<div>长期访问，推荐使用App,更快、更方便！也可以从这里访问：<a href="https://x.co/ogate" title="" target="_blank">临时简易网址或下载App</a></font></font></li></div>
 
 <div><BR></div>
  <li><font class="ws11"><a href=https://github.com/zydd999/bnews2/blob/master/readme.md#dsfgt title="" target="_blank">24小时热点禁闻</a></font></a></font></li >  
