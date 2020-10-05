@@ -7,11 +7,8 @@
 <div>不用任何工具，直接看禁网。电视台节目丰富，品味高雅。每天用它看新闻，非常方便！</font></div> 
 <div>《名家评论》对时事的深刻洞悉，更是国内任何媒体根本达不到的。</font></li></div> 
 <div><BR></div>
- <li><font class="ws11"><a href=https://cutt.ly/Of6XHW2 title="" target="_blank">动态</a></font></a></font></li>  
- <li><font class="ws11"><a href=https://cutt.ly/af7yX4o  title="" target="_blank">明见</a></font></a>（含多个越墙工具）</font></li>  
- <li><font class="ws11"><a href=https://cutt.ly/Jf6XoOn  title="" target="_blank">希望之声</a></font></a>（正在播放长篇连播：《中南海黑厚学》）</font></li>
-  <li><font class="ws11"><a href=https://cutt.ly/Af7ulJv  title="" target="_blank">神州正道</a></font></a></font></li>
-
+ <li><font class="ws11"><a href=hhttps://github.com/zydd999/w123/wiki/%E7%BF%BB%E5%A2%99%E5%BF%85%E7%9C%8B%E8%A7%86%E9%A2%91 title="" target="_blank">越墙必看视频</a></font></a></font></li>  
+ <div>很多朋友能越墙，但却不知道基本的真相，非常可惜，这里的视频能帮您快速了解真相。</div>
 <div><BR></div>
 
 <li><font class="ws11"><a href=http://158.247.209.22:11000/show.aspx?name=og%E7%B2%BE%E9%80%89~mark title="" target="_blank">网门</a></font></a></font></li>  
