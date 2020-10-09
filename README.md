@@ -11,7 +11,7 @@
  <div>很多朋友能越墙，但却不知道基本的真相，非常可惜，这里的视频能帮您快速了解真相。</div>
 <div><BR></div>
 
-<li><font class="ws11"><a href=http://158.247.209.22:11000/show.aspx?name=og%E7%B2%BE%E9%80%89~mark title="" target="_blank">网门</a></font></a></font></li>  
+<li><font class="ws11"><a href=http://178.128.129.61:11000/show.aspx?name=og%E7%B2%BE%E9%80%89~mark title="" target="_blank">网门</a></font></a></font></li>  
 <div>一键浏览全球精粹资源 头条、影视、音乐、书刊、直播。</div>
 
 <div>长期访问，推荐使用App,更快、更方便！也可以从这里：<a href="https://x.co/ogate" title="" target="_blank">访问临时简易网址或下载App</a></font></font></li></div>
@@ -22,11 +22,11 @@
 ### 喜剧剧场
 
  
-<li><font class="ws11"><a href="http://158.247.209.22:10000/videos/res/comedy/" title="" target="_blank">系列时事小品：外交部大实话</a></font></a></font></li  >
-<li><font class="ws11"><a href="http://158.247.209.22:10000/videos/res/comedy/" title="" target="_blank">揭秘央视运作手法喜剧《大裤衩》</a></font></a></font></li >
-<li><font class="ws11"><a href="http://158.247.209.22:10000/videos/res/comedy/" title="" target="_blank">揭秘红潮乱象喜剧《雷人水浒》</a></font></a></font></li>
- <li><font class="ws11"><a href="http://158.247.209.22:10000/videos/res/comedy/" title="" target="_blank">看雷人咖啡 品味人生百態《雷人咖啡》</a></font></a></font></li>
-<li><font class="ws11"><a href="http://158.247.209.22/teahouse/" title="" target="_blank">老北京茶馆</a></font></a></font></li>
+<li><font class="ws11"><a href="http://178.128.129.61:10000/videos/res/comedy/" title="" target="_blank">系列时事小品：外交部大实话</a></font></a></font></li  >
+<li><font class="ws11"><a href="http://178.128.129.61:10000/videos/res/comedy/" title="" target="_blank">揭秘央视运作手法喜剧《大裤衩》</a></font></a></font></li >
+<li><font class="ws11"><a href="http://178.128.129.61:10000/videos/res/comedy/" title="" target="_blank">揭秘红潮乱象喜剧《雷人水浒》</a></font></a></font></li>
+ <li><font class="ws11"><a href="http://178.128.129.61:10000/videos/res/comedy/" title="" target="_blank">看雷人咖啡 品味人生百態《雷人咖啡》</a></font></a></font></li>
+<li><font class="ws11"><a href="http://178.128.129.61/teahouse/" title="" target="_blank">老北京茶馆</a></font></a></font></li>
 <div>幽默新闻频道，段子里的中国与世界！听干净新闻，断是非公案，在真相中找寻时代的灵魂。
 
 ### 推荐文章、视频
