@@ -7,7 +7,7 @@
 <div>不用任何工具，直接看禁网。电视台节目丰富，品味高雅。每天用它看新闻，非常方便！</font></div> 
 <div>《名家评论》对时事的深刻洞悉，更是国内任何媒体根本达不到的。</font></li></div> 
 <div><BR></div>
- <li><font class="ws11"><a href=https://github.com/gfw-breaker/banned-news3/blob/master/README.md" title="" target="_blank">禁闻聚合</a></font>（国产浏览器打不开）</a></font></li>  
+ <li><font class="ws11"><a href=https://github.com/gfw-breaker/banned-news3/blob/master/README.md title="" target="_blank">禁闻聚合</a></font>（国产浏览器打不开）</a></font></li>  
  <div>很多朋友能越墙，但却不知道基本的真相，非常可惜，这里的视频能帮您快速了解真相。</div>
 <div><BR></div>
 
