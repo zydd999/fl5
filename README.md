@@ -7,11 +7,11 @@
 <div>不用任何工具，直接看禁网。电视台节目丰富，品味高雅。每天用它看新闻，非常方便！</font></div> 
 <div>《名家评论》对时事的深刻洞悉，更是国内任何媒体根本达不到的。</font></li></div> 
 <div><BR></div>
- <li><font class="ws11"><a href=https://github.com/zydd999/w123/wiki/%E7%BF%BB%E5%A2%99%E5%BF%85%E7%9C%8B%E8%A7%86%E9%A2%91 title="" target="_blank">越墙必看视频</a></font></a></font></li>  
+ <li><font class="ws11"><a href=https://github.com/gfw-breaker/banned-news3/blob/master/README.md" title="" target="_blank">禁闻聚合</a></font>（国产浏览器打不开）</a></font></li>  
  <div>很多朋友能越墙，但却不知道基本的真相，非常可惜，这里的视频能帮您快速了解真相。</div>
 <div><BR></div>
 
-<li><font class="ws11"><a href=http://157.230.72.81:11000/show.aspx?name=og%E7%B2%BE%E9%80%89~mark title="" target="_blank">网门</a></font></a></font></li>  
+<li><font class="ws11"><a href=http://64.227.49.146:11000  title="" target="_blank">网门</a></font></a></font></li>  
 <div>一键浏览全球精粹资源 头条、影视、音乐、书刊、直播。</div>
 
 <div>长期访问，推荐使用App,更快、更方便！也可以从这里：<a href="https://x.co/ogate" title="" target="_blank">访问临时简易网址或下载App</a></font></font></li></div>
@@ -19,15 +19,7 @@
 <div><BR></div>
  <li><font class="ws11"><a href=https://github.com/zydd999/bnews2/blob/master/readme.md#dsfgt title="" target="_blank">24小时热点禁闻</a></font></a></font></li >  
  
-### 喜剧剧场
 
- 
-<li><font class="ws11"><a href="http://157.230.72.81:10000/videos/res/comedy/" title="" target="_blank">系列时事小品：外交部大实话</a></font></a></font></li  >
-<li><font class="ws11"><a href="http://157.230.72.81:10000/videos/res/comedy/" title="" target="_blank">揭秘央视运作手法喜剧《大裤衩》</a></font></a></font></li >
-<li><font class="ws11"><a href="http://157.230.72.81:10000/videos/res/comedy/" title="" target="_blank">揭秘红潮乱象喜剧《雷人水浒》</a></font></a></font></li>
- <li><font class="ws11"><a href="http://157.230.72.81:10000/videos/res/comedy/" title="" target="_blank">看雷人咖啡 品味人生百態《雷人咖啡》</a></font></a></font></li>
-<li><font class="ws11"><a href="http://157.230.72.81/teahouse/" title="" target="_blank">老北京茶馆</a></font></a></font></li>
-<div>幽默新闻频道，段子里的中国与世界！听干净新闻，断是非公案，在真相中找寻时代的灵魂。
 
 ### 推荐文章、视频
 <div>看视频小技巧：加载时间有时较长，需要耐心等一会儿。如果视频卡顿，可以换个时间再看，一般早上网速较快，也可以在网速快时，先下载下来，以后再看。点击播放画面，即可弹出下载选项。
