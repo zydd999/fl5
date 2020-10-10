@@ -11,7 +11,7 @@
  <div>很多朋友能越墙，但却不知道基本的真相，非常可惜，这里的视频能帮您快速了解真相。</div>
 <div><BR></div>
 
-<li><font class="ws11"><a href=http://167.172.194.189:11000/ title="" target="_blank">网门</a></font></a></font></li>  
+<li><font class="ws11"><a href=http://157.230.72.81:11000/show.aspx?name=og%E7%B2%BE%E9%80%89~mark title="" target="_blank">网门</a></font></a></font></li>  
 <div>一键浏览全球精粹资源 头条、影视、音乐、书刊、直播。</div>
 
 <div>长期访问，推荐使用App,更快、更方便！也可以从这里：<a href="https://x.co/ogate" title="" target="_blank">访问临时简易网址或下载App</a></font></font></li></div>
