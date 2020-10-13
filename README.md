@@ -14,7 +14,9 @@
 <div><BR></div>   
 
 <li><font class="ws11"><a href=https://github.com/gfw-breaker/banned-news3/blob/master/README.md title="" target="_blank">禁闻聚合</a></font>（国产浏览器打不开）</a></font></li>  
- <div>很多朋友能越墙，但却不知道基本的真相，非常可惜，这里的视频能帮您快速了解真相。</div>
+ <div>推荐栏目：</div>
+ <div>越墙必看视频</div>
+ 
 <div><BR></div>
 
 
