@@ -5,7 +5,7 @@
 <li><font class="ws11"><a href=https://x.co/ddw title="" target="_blank">动态</a></font></a></font></li>  
 <div>一键浏览全球精粹资源 头条、影视、音乐、书刊、直播。</div>
 
-<div>长期访问，推荐使用App,更快、更方便！也可以从这里：<a href="https://x.co/ogate" title="" target="_blank">访问临时简易网址或下载App</a></font></font></li></div>
+<li><font class="ws11"><a href=https://github.com/pfnspx389/www/blob/master/README.md#dt2121 title="" target="_blank">明见</a></font>（含多个免费越墙工具）</a></font></li>  
 <div><BR></div>       
     
  <li><font class="ws11"><a href=https://rebrand.ly/zhen title="" target="_blank">禁网导航</a></font>  &nbsp </font></a>（含电视直播、名家评论） </li>
