@@ -15,7 +15,7 @@
 <div><BR></div>
  
 
-<li><font class="ws11"><a href=https://github.com/gfw-breaker/banned-news3/blob/master/README.md title="" target="_blank">禁闻聚合</a></font>（国产浏览器打不开）</a></font></li>  
+<li><font class="ws11"><a href=https://github.com/gfw-breaker/banned-news3/blob/master/pages/link6.md title="" target="_blank">禁闻聚合</a></font>（国产浏览器打不开）</a></font></li>  
  <div>推荐栏目：</div>
  <div>越墙必看视频</div>
  <div>时事小品</div>
