@@ -3,7 +3,7 @@
 <div>国产浏览器 ,可能打不开链接,推荐使用谷歌Chrom、微软Edge、火狐浏览器。</div>
 <div><BR></div>
 <li><font class="ws11"><a href=https://x.co/ddw title="" target="_blank">动态</a></font></a></font></li>  
-<div>一键浏览全球精粹资源 头条、影视、音乐、书刊、直播。</div>
+
 <div><BR></div>
  <li><font class="ws11"><a href=https://l4u.in/odoor title="" target="_blank">网门</a></font></a></font></li>   
  <div><BR></div>
