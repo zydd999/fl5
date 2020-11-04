@@ -15,10 +15,7 @@
 <div>《名家评论》对时事的深刻洞悉，更是国内任何媒体根本达不到的。</font></li></div> 
 <div><BR></div>
 
-     
- <li><font class="ws11"><a href=https://cutt.ly/KgADU8R title=""  target="_blank">希望之声</a></font>  </font></a> </li>
-<div>最深度、互动大选直播，大咖云集！</div>
-<div><BR></div>
+
 
 
  <li><font class="ws11"><a href=https://github.com/zydd999/bnews2/blob/master/readme.md#dsfgt title="" target="_blank">24小时热点禁闻</a></font></a></font></li >  
