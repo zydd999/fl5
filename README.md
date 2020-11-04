@@ -14,7 +14,10 @@
 <div>不用任何工具，直接看禁网。电视台节目丰富，品味高雅。每天用它看新闻，非常方便！</font></div> 
 <div>《名家评论》对时事的深刻洞悉，更是国内任何媒体根本达不到的。</font></li></div> 
 <div><BR></div>
- 
+  <div><BR></div>
+     
+ <li><font class="ws11"><a href=https://cutt.ly/KgADU8R title=""  target="_blank">希望之声</a></font>  </font></a> </li>
+<div>最深度、互动大选直播，大咖云集！</div>
 
 
 
