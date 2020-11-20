@@ -30,7 +30,10 @@
 ### 推荐视频
 <div>看视频小技巧：加载时间有时较长，需要耐心等一会儿。如果视频卡顿，可以换个时间再看，一般早上网速较快，也可以在网速快时，先下载下来，以后再看。点击播放画面，即可弹出下载选项。
 <div><BR></div>    
-
+ 
+ <li><font class="ws11"><a href="https://gitlab.com/szzdlab/vdzfzx/raw/master/zfzx.webm" title="" target="_blank">短视频：伪火骗局</a></font></a></font></li>
+<div>曾经欺骗了几乎所有国人的一场伪火骗局。您现在是否看清？</font></li></div> 
+<div><BR></div>   
  <li><font class="ws11"><a href="https://gitlab.com/szzdlab/m1/raw/master/dexl.mp4" title="" target="_blank">纪录片：大疫袭来</a></font></a></font></li 
 <div> 历史上，瘟疫曾经多次降临，摧毁强大的帝国，夺走鲜活的生命。今天，新冠病毒导致上千万人感染，数十万人死亡；封城、封国、社交距离改变了生活常态，全球经济衰退，未来阴晴不定，人类正处在命运的转折点。疫情阴影下，New Tang Dynasty Television最新纪录片《大疫袭来》与您共同寻找答案。</font></li></div> 
   <div><BR></div>
