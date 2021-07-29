@@ -2,12 +2,7 @@
 <div>本站长期可用短网址:https://x.co/zhen 欢迎大家推广。</div>
 <div>国产浏览器 ,可能打不开链接,推荐使用谷歌Chrom、微软Edge、火狐浏览器。</div>
 <div><BR></div>
-<li><font class="ws11"><a href=https://x.co/ddw title="" target="_blank">动态</a></font></a></font></li>  
 
-
- <div><BR></div>
- <li><font class="ws11"><a href=https://is.gd/ttdd6 title="" target="_blank">网门 </a></font></a></font></li>  
-<div>进入后，点主页，打开网门主页。含最新电影，热播喜剧、时事小品。 </div>
 
  <div><BR></div>
  
