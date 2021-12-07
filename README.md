@@ -11,6 +11,6 @@
  <li><font class="ws11"><a href=https://github.com/hao2345679/jyg12/wiki/jyg title="" target="_blank">聚缘阁</a></font></a></font></li>  
 <div><BR></div>     
 
-<div>github近期不太稳定，有时需要多帅新几次，才能打开！</div>
+<div>github近期不太稳定，有时需要多刷新几次，才能打开！</div>
 
 
