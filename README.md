@@ -24,7 +24,6 @@
 <div><BR></div>  
  <li><font class="ws11"><a href=https://github.com/Alvin9999/new-pac/wiki title="" target="_blank">自由上网方法</a></font></a></font></li>  
 <div><BR></div>  
-<div><BR></div>  
  <li><font class="ws11"><a href=https://github.com/bannedbook/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6 title="" target="_blank">安卓手机翻墙</a></font></a></font></li>  
 <div><BR></div>  
 <h3><p><strong>不用软件直接看真实新闻</strong></p></h3>
@@ -36,5 +35,11 @@ github近期不太稳定，如果打不开，隔一会儿刷新一下，多试�
 
 <li><font class="ws11"><a href= https://github.com/gfw-breaker/banned-news3 title="" target="_blank">禁闻聚合</a></font></a></font></li>  
 <div><BR></div>    
-以上两个网址，都含有多个翻墙软件、上油管利器！
+<h3><p><strong>油管频道推荐</strong></p></h3>
+ 新闻评论类：新闻看点、方菲访谈、天亮时分、江峰漫谈、北京老茶馆
+ 预言类：第三只眼睛
+ 电影类：新世纪影视
+ 探迷类：未解之谜扶搖、文昭谈古论今
+ 小品类：时事小品
+ 
 
