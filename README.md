@@ -1,6 +1,6 @@
 ## 翻墙看真相
 <div>本站长期可用短网址:https://x.co/zhen 欢迎大家推广。</div>
-<div>国产浏览器 ,可能打不开链接,推荐使用谷歌Chrom、微软Edge、火狐浏览器。</div>
+<div>国产浏览器 ,可能打不开链接,推荐使用谷歌Chrom、微软Edge</div>
 如果打不开，隔一会儿刷新一下，多试几次就能打开
 <h3><p><strong>免费翻墙软件精选</strong></p></h3>
 绿色、安全、免费，帮您破除网络封禁，一键上外网。<br>
@@ -20,6 +20,7 @@
 </details>
 
 <h3><p><strong>翻墙软件综合下载网站</strong></p></h3>
+<div>国产浏览器打不开链接,推荐使用谷歌Chrom、微软Edge</div>
 <li><font class="ws11"><a href=https://github.com/sglfree/freesky/blob/master/README.md title="" target="_blank">自由天空</a></font></a></font></li>  
 <div><BR></div>  
  <li><font class="ws11"><a href=https://github.com/Alvin9999/new-pac/wiki title="" target="_blank">自由上网方法</a></font></a></font></li>  
