@@ -29,7 +29,7 @@
 
 <h3><p><strong>不用软件直接看真实新闻</strong></p></h3>
 国产浏览器打不开，建议使用谷歌Chrome、微软Edge<br>
-github近期不太稳定，如果打不开，隔一会儿刷新一下，多试几次就能打开<br>
+
 <div><BR></div>    
 <li><font class="ws11"><a href=https://github.com/hao2345679/jyg12/wiki/jyg title="" target="_blank">聚缘阁</a></font></a></font></li>  
 <div><BR></div>    
