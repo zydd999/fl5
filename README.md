@@ -25,7 +25,7 @@
  <li><font class="ws11"><a href=https://github.com/Alvin9999/new-pac/wiki title="" target="_blank">自由上网方法</a></font></a></font></li>  
 <div><BR></div>  
  <li><font class="ws11"><a href=https://github.com/bannedbook/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6 title="" target="_blank">安卓手机翻墙</a></font></a></font></li>  
-<div><BR></div>  
+
 <h3><p><strong>不用软件直接看真实新闻</strong></p></h3>
 国产浏览器打不开，建议使用谷歌Chrome、微软Edge<br>
 github近期不太稳定，如果打不开，隔一会儿刷新一下，多试几次就能打开<br>
@@ -33,7 +33,7 @@ github近期不太稳定，如果打不开，隔一会儿刷新一下，多试�
 <li><font class="ws11"><a href=https://github.com/hao2345679/jyg12/wiki/jyg title="" target="_blank">聚缘阁</a></font></a></font></li>  
 <div><BR></div>    
 <li><font class="ws11"><a href= https://github.com/gfw-breaker/banned-news3 title="" target="_blank">禁闻聚合</a></font></a></font></li>  
-<div><BR></div>    
+  
 <h3><p><strong>油管频道推荐</strong></p></h3>
  新闻评论类：新闻看点、方菲访谈、天亮时分、江峰漫谈、北京老茶馆、文昭谈古论今、新闻拍案惊奇、世界的十字路口<br>
  预言类：第三只眼睛<br>
