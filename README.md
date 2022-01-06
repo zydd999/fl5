@@ -32,7 +32,7 @@
 <li><font class="ws11"><a href=https://github.com/hao2345679/jyg12/wiki/jyg title="" target="_blank">聚缘阁</a></font></a></font></li>  
    
 <li><font class="ws11"><a href= https://github.com/gfw-breaker/banned-news3 title="" target="_blank">禁闻聚合</a></font></a></font></li>  
-  提醒：国产浏览器打不开<br>
+
 
 <h3><p><strong>油管频道推荐</strong></p></h3>
 <li><font class="ws11"><a href=   http://104.238.171.30:10000/videos/sw/HelloWorld.apk title="" target="_blank">安卓手机HelloWorld 免翻墙</a></font></a>（高速看油管、看新闻）</font></li>  
