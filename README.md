@@ -29,7 +29,6 @@
 
 <h3><p><strong>不用软件直接看真实新闻</strong></p></h3>
 
-<div><BR></div>    
 <li><font class="ws11"><a href=https://github.com/hao2345679/jyg12/wiki/jyg title="" target="_blank">聚缘阁</a></font></a></font></li>  
    
 <li><font class="ws11"><a href= https://github.com/gfw-breaker/banned-news3 title="" target="_blank">禁闻聚合</a></font></a></font></li>  
